@@ -1,3 +1,8 @@
+Can you discover what the mod operator does when one or both of the operands are negative? What
+about if the first operand is zero? What if the second is zero?
+----
+
+
 utop # -3 mod -2;;
 - : int = -1
 
