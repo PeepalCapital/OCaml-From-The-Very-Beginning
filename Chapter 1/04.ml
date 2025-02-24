@@ -1,3 +1,9 @@
+The range of numbers available is limited. There are two special numbers: min_int and max_int.
+What are their values on your computer? What happens when you evaluate the expressions max_int
++ 1 and min_int - 1?
+----
+
+
 On my computer a 2019 Macbook Pro 2.6 GHz 6-Core Intel Core i7
 
 utop # min_int;;
